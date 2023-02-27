@@ -1,2 +1,13 @@
 # Calculadora
-Proyecto de calculadora con HTML5 y JavaScript.
+
+## **Índice**
+
+*[1.Intro]
+*[2.Qué construí]
+*[3.Objetivo del proyectoi]
+*[4.Link a Demo]
+
+****
+
+##1.Intro
+
